@@ -1,2 +1,45 @@
 # Java-Exercises-Linear-Data-Structures
-A collection of Java exercises focused on linear data structures such as arrays, lists, stacks, and queues. This repository contains practice problems and solutions implemented to strengthen core data structure concepts and problem-solving skills.
+📌 Overview
+
+This repository contains Java exercises and problem solutions focused on linear data structures.
+The goal is to strengthen understanding of fundamental data structures and improve problem-solving skills through practical implementation.
+
+📚 Topics Covered
+
+Arrays
+
+ArrayLists
+
+Linked Lists
+
+Stacks
+
+Queues
+
+Basic algorithmic operations (searching, iteration, manipulation)
+
+🎯 Purpose
+
+Practice core Java programming
+
+Improve understanding of data structures
+
+Prepare for technical interviews and exams
+
+Build consistent problem-solving habits
+
+🛠 Technologies Used
+
+Java
+
+IntelliJ IDEA / Eclipse (or any Java IDE)
+
+Git & GitHub for version control
+
+📖 Structure
+
+Each exercise is organized in separate classes/files for clarity and easy navigation.
+
+👨‍💻 Author
+
+Niki Raykov

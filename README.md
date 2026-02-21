@@ -8,6 +8,8 @@ The goal is to strengthen understanding of fundamental data structures and impro
 
 Arrays
 
+2D Arrays
+
 ArrayLists
 
 Linked Lists
